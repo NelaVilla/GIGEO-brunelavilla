@@ -9902,7 +9902,7 @@ p {
 .banner__foto {
   background-image: url("../img/image-banner.png");
   height: 300px;
-  background-size: cover;
+  background-size: center;
 }
 
 .perfil__foto {

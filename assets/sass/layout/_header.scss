@@ -1,8 +1,8 @@
 .banner__foto {
   background-image: url("../img/image-banner.png");
   height: 300px;
-  background-size: cover;
-}
+  background-size: center;
+} 
 
 .perfil__foto {
   width: 80px;
@@ -55,6 +55,6 @@
   }
 
   .perfil__col--3 {
-    display: none; 
+    display: none;
   }
 }
